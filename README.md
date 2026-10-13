@@ -1,4 +1,4 @@
-# 🎲📊 SME0123 - Estatística: Projetos de Simulação
+# SME0123 - Estatística: Projetos de Simulação
 
 Dois projetos práticos da disciplina **SME0123 - Estatística**, que usam simulação computacional para resolver problemas de probabilidade.
 
@@ -7,9 +7,9 @@ Dois projetos práticos da disciplina **SME0123 - Estatística**, que usam simul
   <img alt="Instituição" src="https://img.shields.io/badge/ICMC--USP-Universidade%20de%20S%C3%A3o%20Paulo-orange?style=for-the-badge">
 </p>
 
-> 📚 **Disciplina:** SME0123 - Estatística <br>
-> 👨‍🏫 **Professor:** Eduardo Fontoura Costa <br>
-> 🏛️ **Instituição:** ICMC-USP
+> **Disciplina:** SME0123 - Estatística <br>
+> **Professor:** Eduardo Fontoura Costa <br>
+> **Instituição:** ICMC-USP
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -20,13 +20,13 @@ Dois projetos práticos da disciplina **SME0123 - Estatística**, que usam simul
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 </p>
 
-## 📋 Requisitos
+## Requisitos
 
 - **Python 3**
 - **Jupyter** (JupyterLab, Notebook, VS Code ou Google Colab)
 - `numpy`, `pandas`, `scipy`, `matplotlib`, `plotly`, `tqdm`, `nbformat`
 
-## 🚀 Como Executar
+## Como Executar
 
 ```bash
 pip install numpy pandas scipy matplotlib plotly tqdm nbformat
@@ -35,12 +35,12 @@ jupyter lab
 
 Abra os arquivos `.ipynb` no ambiente Jupyter.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `filaCadeiaMarkov.ipynb`: simulação de filas e Cadeias de Markov.
 - `tetraedroEsfera.ipynb`: simulação do tetraedro em uma esfera.
 
-## ✨ Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 ### Simulação: Filas e Cadeias de Markov
 
